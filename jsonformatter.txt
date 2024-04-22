@@ -1,0 +1,2530 @@
+[
+  {
+    "id": 450837310,
+    "name": "DR_NO",
+    "dataTypeName": "text",
+    "description": "Division of Records Number: Official file number made up of a 2 digit year, area ID, and 5 digits",
+    "fieldName": "dr_no",
+    "position": 1,
+    "renderTypeName": "text",
+    "tableColumnId": 94494231,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "249913791",
+      "null": "0",
+      "top": [
+        {
+          "item": "241705239",
+          "count": "1"
+        },
+        {
+          "item": "220304204",
+          "count": "1"
+        },
+        {
+          "item": "230616639",
+          "count": "1"
+        },
+        {
+          "item": "230404279",
+          "count": "1"
+        },
+        {
+          "item": "220611545",
+          "count": "1"
+        },
+        {
+          "item": "221410442",
+          "count": "1"
+        },
+        {
+          "item": "221506065",
+          "count": "1"
+        },
+        {
+          "item": "211708839",
+          "count": "1"
+        },
+        {
+          "item": "241606127",
+          "count": "1"
+        },
+        {
+          "item": "240804488",
+          "count": "1"
+        },
+        {
+          "item": "221819834",
+          "count": "1"
+        },
+        {
+          "item": "231115713",
+          "count": "1"
+        },
+        {
+          "item": "231210687",
+          "count": "1"
+        },
+        {
+          "item": "200709477",
+          "count": "1"
+        },
+        {
+          "item": "201604297",
+          "count": "1"
+        },
+        {
+          "item": "241107199",
+          "count": "1"
+        },
+        {
+          "item": "231204818",
+          "count": "1"
+        },
+        {
+          "item": "201305634",
+          "count": "1"
+        },
+        {
+          "item": "201511375",
+          "count": "1"
+        },
+        {
+          "item": "220717928",
+          "count": "1"
+        }
+      ],
+      "smallest": "010304468",
+      "count": "932140",
+      "cardinality": "932140"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837343,
+    "name": "Date Rptd",
+    "dataTypeName": "calendar_date",
+    "description": "MM/DD/YYYY",
+    "fieldName": "date_rptd",
+    "position": 2,
+    "renderTypeName": "calendar_date",
+    "tableColumnId": 94494264,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "2024-04-15T00:00:00.000",
+      "null": "0",
+      "top": [
+        {
+          "item": "2023-02-03T00:00:00.000",
+          "count": "925"
+        },
+        {
+          "item": "2023-02-02T00:00:00.000",
+          "count": "921"
+        },
+        {
+          "item": "2023-01-03T00:00:00.000",
+          "count": "913"
+        },
+        {
+          "item": "2022-05-02T00:00:00.000",
+          "count": "909"
+        },
+        {
+          "item": "2022-04-04T00:00:00.000",
+          "count": "883"
+        },
+        {
+          "item": "2022-06-02T00:00:00.000",
+          "count": "879"
+        },
+        {
+          "item": "2022-11-02T00:00:00.000",
+          "count": "875"
+        },
+        {
+          "item": "2022-05-03T00:00:00.000",
+          "count": "861"
+        },
+        {
+          "item": "2022-12-02T00:00:00.000",
+          "count": "854"
+        },
+        {
+          "item": "2022-12-05T00:00:00.000",
+          "count": "853"
+        },
+        {
+          "item": "2022-09-02T00:00:00.000",
+          "count": "850"
+        },
+        {
+          "item": "2022-11-03T00:00:00.000",
+          "count": "845"
+        },
+        {
+          "item": "2022-08-01T00:00:00.000",
+          "count": "843"
+        },
+        {
+          "item": "2022-08-02T00:00:00.000",
+          "count": "837"
+        },
+        {
+          "item": "2022-08-03T00:00:00.000",
+          "count": "833"
+        },
+        {
+          "item": "2022-06-21T00:00:00.000",
+          "count": "825"
+        },
+        {
+          "item": "2023-02-06T00:00:00.000",
+          "count": "818"
+        },
+        {
+          "item": "2022-10-03T00:00:00.000",
+          "count": "814"
+        },
+        {
+          "item": "2022-04-25T00:00:00.000",
+          "count": "813"
+        },
+        {
+          "item": "2023-01-04T00:00:00.000",
+          "count": "813"
+        }
+      ],
+      "smallest": "2020-01-01T00:00:00.000",
+      "count": "932140",
+      "cardinality": "1567"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837342,
+    "name": "DATE OCC",
+    "dataTypeName": "calendar_date",
+    "description": "MM/DD/YYYY",
+    "fieldName": "date_occ",
+    "position": 3,
+    "renderTypeName": "calendar_date",
+    "tableColumnId": 94494263,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "2024-04-15T00:00:00.000",
+      "null": "0",
+      "top": [
+        {
+          "item": "2020-01-01T00:00:00.000",
+          "count": "1138"
+        },
+        {
+          "item": "2022-12-02T00:00:00.000",
+          "count": "1132"
+        },
+        {
+          "item": "2023-01-01T00:00:00.000",
+          "count": "1124"
+        },
+        {
+          "item": "2023-02-01T00:00:00.000",
+          "count": "1088"
+        },
+        {
+          "item": "2022-10-01T00:00:00.000",
+          "count": "1074"
+        },
+        {
+          "item": "2022-12-01T00:00:00.000",
+          "count": "1053"
+        },
+        {
+          "item": "2022-06-01T00:00:00.000",
+          "count": "1043"
+        },
+        {
+          "item": "2023-02-02T00:00:00.000",
+          "count": "1039"
+        },
+        {
+          "item": "2022-09-01T00:00:00.000",
+          "count": "1034"
+        },
+        {
+          "item": "2022-04-01T00:00:00.000",
+          "count": "1030"
+        },
+        {
+          "item": "2022-07-01T00:00:00.000",
+          "count": "1021"
+        },
+        {
+          "item": "2022-11-01T00:00:00.000",
+          "count": "1001"
+        },
+        {
+          "item": "2023-02-03T00:00:00.000",
+          "count": "998"
+        },
+        {
+          "item": "2022-08-01T00:00:00.000",
+          "count": "997"
+        },
+        {
+          "item": "2022-05-01T00:00:00.000",
+          "count": "996"
+        },
+        {
+          "item": "2022-01-01T00:00:00.000",
+          "count": "983"
+        },
+        {
+          "item": "2022-05-02T00:00:00.000",
+          "count": "966"
+        },
+        {
+          "item": "2022-02-01T00:00:00.000",
+          "count": "965"
+        },
+        {
+          "item": "2022-03-01T00:00:00.000",
+          "count": "961"
+        },
+        {
+          "item": "2021-01-01T00:00:00.000",
+          "count": "951"
+        }
+      ],
+      "smallest": "2020-01-01T00:00:00.000",
+      "count": "932140",
+      "cardinality": "1567"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837309,
+    "name": "TIME OCC",
+    "dataTypeName": "text",
+    "description": "In 24 hour military time.",
+    "fieldName": "time_occ",
+    "position": 4,
+    "renderTypeName": "text",
+    "tableColumnId": 94494230,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "2359",
+      "null": "0",
+      "top": [
+        {
+          "item": "1200",
+          "count": "32991"
+        },
+        {
+          "item": "1800",
+          "count": "24648"
+        },
+        {
+          "item": "1700",
+          "count": "23405"
+        },
+        {
+          "item": "2000",
+          "count": "22877"
+        },
+        {
+          "item": "1900",
+          "count": "21285"
+        },
+        {
+          "item": "2200",
+          "count": "21014"
+        },
+        {
+          "item": "2100",
+          "count": "20227"
+        },
+        {
+          "item": "1600",
+          "count": "19454"
+        },
+        {
+          "item": "1500",
+          "count": "18812"
+        },
+        {
+          "item": "1400",
+          "count": "16700"
+        },
+        {
+          "item": "0001",
+          "count": "16156"
+        },
+        {
+          "item": "2300",
+          "count": "15926"
+        },
+        {
+          "item": "1000",
+          "count": "15623"
+        },
+        {
+          "item": "0800",
+          "count": "15401"
+        },
+        {
+          "item": "1300",
+          "count": "14714"
+        },
+        {
+          "item": "1100",
+          "count": "13633"
+        },
+        {
+          "item": "0900",
+          "count": "13128"
+        },
+        {
+          "item": "0100",
+          "count": "10702"
+        },
+        {
+          "item": "1830",
+          "count": "10358"
+        },
+        {
+          "item": "1730",
+          "count": "10030"
+        }
+      ],
+      "smallest": "0001",
+      "count": "932140",
+      "cardinality": "1439"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837308,
+    "name": "AREA",
+    "dataTypeName": "text",
+    "description": "The LAPD has 21 Community Police Stations referred to as Geographic Areas within the department. These Geographic Areas are sequentially numbered from 1-21.",
+    "fieldName": "area",
+    "position": 5,
+    "renderTypeName": "text",
+    "tableColumnId": 94494229,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "21",
+      "null": "0",
+      "top": [
+        {
+          "item": "01",
+          "count": "63133"
+        },
+        {
+          "item": "12",
+          "count": "58353"
+        },
+        {
+          "item": "14",
+          "count": "54446"
+        },
+        {
+          "item": "03",
+          "count": "52581"
+        },
+        {
+          "item": "06",
+          "count": "49080"
+        },
+        {
+          "item": "20",
+          "count": "47069"
+        },
+        {
+          "item": "18",
+          "count": "47068"
+        },
+        {
+          "item": "15",
+          "count": "46993"
+        },
+        {
+          "item": "13",
+          "count": "46096"
+        },
+        {
+          "item": "07",
+          "count": "44753"
+        },
+        {
+          "item": "02",
+          "count": "43617"
+        },
+        {
+          "item": "08",
+          "count": "42668"
+        },
+        {
+          "item": "11",
+          "count": "39876"
+        },
+        {
+          "item": "09",
+          "count": "39563"
+        },
+        {
+          "item": "10",
+          "count": "39265"
+        },
+        {
+          "item": "05",
+          "count": "38491"
+        },
+        {
+          "item": "17",
+          "count": "38309"
+        },
+        {
+          "item": "21",
+          "count": "38232"
+        },
+        {
+          "item": "19",
+          "count": "37155"
+        },
+        {
+          "item": "04",
+          "count": "34493"
+        }
+      ],
+      "smallest": "01",
+      "count": "932140",
+      "cardinality": "21"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837339,
+    "name": "AREA NAME",
+    "dataTypeName": "text",
+    "description": "The 21 Geographic Areas or Patrol Divisions are also given a name designation that references a landmark or the surrounding community that it is responsible for. For example 77th Street Division is located at the intersection of South Broadway and 77th Street, serving neighborhoods in South Los Angeles.",
+    "fieldName": "area_name",
+    "position": 6,
+    "renderTypeName": "text",
+    "tableColumnId": 94494260,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "Wilshire",
+      "null": "0",
+      "top": [
+        {
+          "item": "Central",
+          "count": "63133"
+        },
+        {
+          "item": "77th Street",
+          "count": "58353"
+        },
+        {
+          "item": "Pacific",
+          "count": "54446"
+        },
+        {
+          "item": "Southwest",
+          "count": "52581"
+        },
+        {
+          "item": "Hollywood",
+          "count": "49080"
+        },
+        {
+          "item": "Olympic",
+          "count": "47069"
+        },
+        {
+          "item": "Southeast",
+          "count": "47068"
+        },
+        {
+          "item": "N Hollywood",
+          "count": "46993"
+        },
+        {
+          "item": "Newton",
+          "count": "46096"
+        },
+        {
+          "item": "Wilshire",
+          "count": "44753"
+        },
+        {
+          "item": "Rampart",
+          "count": "43617"
+        },
+        {
+          "item": "West LA",
+          "count": "42668"
+        },
+        {
+          "item": "Northeast",
+          "count": "39876"
+        },
+        {
+          "item": "Van Nuys",
+          "count": "39563"
+        },
+        {
+          "item": "West Valley",
+          "count": "39265"
+        },
+        {
+          "item": "Harbor",
+          "count": "38491"
+        },
+        {
+          "item": "Devonshire",
+          "count": "38309"
+        },
+        {
+          "item": "Topanga",
+          "count": "38232"
+        },
+        {
+          "item": "Mission",
+          "count": "37155"
+        },
+        {
+          "item": "Hollenbeck",
+          "count": "34493"
+        }
+      ],
+      "smallest": "77th Street",
+      "count": "932140",
+      "cardinality": "21"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837307,
+    "name": "Rpt Dist No",
+    "dataTypeName": "text",
+    "description": "A four-digit code that represents a sub-area within a Geographic Area. All crime records reference the \"RD\" that it occurred in for statistical comparisons. Find LAPD Reporting Districts on the LA City GeoHub at http://geohub.lacity.org/datasets/c4f83909b81d4786aa8ba8a74a4b4db1_4 ",
+    "fieldName": "rpt_dist_no",
+    "position": 7,
+    "renderTypeName": "text",
+    "tableColumnId": 94494228,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "2199",
+      "null": "0",
+      "top": [
+        {
+          "item": "0162",
+          "count": "4930"
+        },
+        {
+          "item": "0645",
+          "count": "4631"
+        },
+        {
+          "item": "0182",
+          "count": "4440"
+        },
+        {
+          "item": "1494",
+          "count": "4405"
+        },
+        {
+          "item": "0646",
+          "count": "4126"
+        },
+        {
+          "item": "0636",
+          "count": "3718"
+        },
+        {
+          "item": "2156",
+          "count": "3667"
+        },
+        {
+          "item": "0111",
+          "count": "3582"
+        },
+        {
+          "item": "1822",
+          "count": "3061"
+        },
+        {
+          "item": "0152",
+          "count": "2896"
+        },
+        {
+          "item": "1239",
+          "count": "2781"
+        },
+        {
+          "item": "0119",
+          "count": "2776"
+        },
+        {
+          "item": "0153",
+          "count": "2774"
+        },
+        {
+          "item": "2029",
+          "count": "2762"
+        },
+        {
+          "item": "0765",
+          "count": "2735"
+        },
+        {
+          "item": "0666",
+          "count": "2733"
+        },
+        {
+          "item": "0647",
+          "count": "2702"
+        },
+        {
+          "item": "1764",
+          "count": "2690"
+        },
+        {
+          "item": "1555",
+          "count": "2616"
+        },
+        {
+          "item": "1269",
+          "count": "2586"
+        }
+      ],
+      "smallest": "0101",
+      "count": "932140",
+      "cardinality": "1208"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837300,
+    "name": "Part 1-2",
+    "dataTypeName": "number",
+    "description": "",
+    "fieldName": "part_1_2",
+    "position": 8,
+    "renderTypeName": "number",
+    "tableColumnId": 94494221,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "2",
+      "null": "0",
+      "top": [
+        {
+          "item": "1",
+          "count": "549757"
+        },
+        {
+          "item": "2",
+          "count": "382383"
+        }
+      ],
+      "smallest": "1",
+      "count": "932140",
+      "cardinality": "2"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837306,
+    "name": "Crm Cd",
+    "dataTypeName": "text",
+    "description": "Indicates the crime committed. (Same as Crime Code 1)",
+    "fieldName": "crm_cd",
+    "position": 9,
+    "renderTypeName": "text",
+    "tableColumnId": 94494227,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "956",
+      "null": "0",
+      "top": [
+        {
+          "item": "510",
+          "count": "100225"
+        },
+        {
+          "item": "624",
+          "count": "73759"
+        },
+        {
+          "item": "354",
+          "count": "57539"
+        },
+        {
+          "item": "330",
+          "count": "57538"
+        },
+        {
+          "item": "310",
+          "count": "57015"
+        },
+        {
+          "item": "740",
+          "count": "56525"
+        },
+        {
+          "item": "230",
+          "count": "52677"
+        },
+        {
+          "item": "440",
+          "count": "47568"
+        },
+        {
+          "item": "626",
+          "count": "46165"
+        },
+        {
+          "item": "420",
+          "count": "36019"
+        },
+        {
+          "item": "331",
+          "count": "33334"
+        },
+        {
+          "item": "210",
+          "count": "31683"
+        },
+        {
+          "item": "341",
+          "count": "31176"
+        },
+        {
+          "item": "442",
+          "count": "24714"
+        },
+        {
+          "item": "745",
+          "count": "24064"
+        },
+        {
+          "item": "930",
+          "count": "18975"
+        },
+        {
+          "item": "888",
+          "count": "14495"
+        },
+        {
+          "item": "761",
+          "count": "14362"
+        },
+        {
+          "item": "236",
+          "count": "12539"
+        },
+        {
+          "item": "901",
+          "count": "11626"
+        }
+      ],
+      "smallest": "110",
+      "count": "932140",
+      "cardinality": "139"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837336,
+    "name": "Crm Cd Desc",
+    "dataTypeName": "text",
+    "description": "Defines the Crime Code provided.",
+    "fieldName": "crm_cd_desc",
+    "position": 10,
+    "renderTypeName": "text",
+    "tableColumnId": 94494257,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "WEAPONS POSSESSION/BOMBING",
+      "null": "0",
+      "top": [
+        {
+          "item": "VEHICLE - STOLEN",
+          "count": "100225"
+        },
+        {
+          "item": "BATTERY - SIMPLE ASSAULT",
+          "count": "73759"
+        },
+        {
+          "item": "THEFT OF IDENTITY",
+          "count": "57539"
+        },
+        {
+          "item": "BURGLARY FROM VEHICLE",
+          "count": "57538"
+        },
+        {
+          "item": "BURGLARY",
+          "count": "57015"
+        },
+        {
+          "item": "VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)",
+          "count": "56525"
+        },
+        {
+          "item": "ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT",
+          "count": "52677"
+        },
+        {
+          "item": "THEFT PLAIN - PETTY ($950 & UNDER)",
+          "count": "47568"
+        },
+        {
+          "item": "INTIMATE PARTNER - SIMPLE ASSAULT",
+          "count": "46165"
+        },
+        {
+          "item": "THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)",
+          "count": "36019"
+        },
+        {
+          "item": "THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)",
+          "count": "33334"
+        },
+        {
+          "item": "ROBBERY",
+          "count": "31683"
+        },
+        {
+          "item": "THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD",
+          "count": "31176"
+        },
+        {
+          "item": "SHOPLIFTING - PETTY THEFT ($950 & UNDER)",
+          "count": "24714"
+        },
+        {
+          "item": "VANDALISM - MISDEAMEANOR ($399 OR UNDER)",
+          "count": "24064"
+        },
+        {
+          "item": "CRIMINAL THREATS - NO WEAPON DISPLAYED",
+          "count": "18975"
+        },
+        {
+          "item": "TRESPASSING",
+          "count": "14495"
+        },
+        {
+          "item": "BRANDISH WEAPON",
+          "count": "14362"
+        },
+        {
+          "item": "INTIMATE PARTNER - AGGRAVATED ASSAULT",
+          "count": "12539"
+        },
+        {
+          "item": "VIOLATION OF RESTRAINING ORDER",
+          "count": "11626"
+        }
+      ],
+      "smallest": "ARSON",
+      "count": "932140",
+      "cardinality": "139"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837305,
+    "name": "Mocodes",
+    "dataTypeName": "text",
+    "description": "Modus Operandi: Activities associated with the suspect in commission of the crime.See attached PDF for list of MO Codes in numerical order. https://data.lacity.org/api/views/y8tr-7khq/files/3a967fbd-f210-4857-bc52-60230efe256c?download=true&filename=MO%20CODES%20(numerical%20order).pdf",
+    "fieldName": "mocodes",
+    "position": 11,
+    "renderTypeName": "text",
+    "tableColumnId": 94494226,
+    "cachedContents": {
+      "non_null": "801530",
+      "largest": "9999 2004 0910",
+      "null": "130610",
+      "top": [
+        {
+          "item": "0344",
+          "count": "37998"
+        },
+        {
+          "item": "0329",
+          "count": "20334"
+        },
+        {
+          "item": "1822 0344",
+          "count": "12322"
+        },
+        {
+          "item": "1501",
+          "count": "9245"
+        },
+        {
+          "item": "0325",
+          "count": "8738"
+        },
+        {
+          "item": "0344 1822",
+          "count": "8110"
+        },
+        {
+          "item": "0329 1300",
+          "count": "5433"
+        },
+        {
+          "item": "1822",
+          "count": "5347"
+        },
+        {
+          "item": "0329 1822",
+          "count": "5193"
+        },
+        {
+          "item": "1300 0344",
+          "count": "4783"
+        },
+        {
+          "item": "2038",
+          "count": "4641"
+        },
+        {
+          "item": "0344 1300",
+          "count": "4625"
+        },
+        {
+          "item": "0100",
+          "count": "4032"
+        },
+        {
+          "item": "1822 0329",
+          "count": "4001"
+        },
+        {
+          "item": "0385",
+          "count": "3781"
+        },
+        {
+          "item": "0377",
+          "count": "3340"
+        },
+        {
+          "item": "0416",
+          "count": "3234"
+        },
+        {
+          "item": "0344 0394",
+          "count": "3176"
+        },
+        {
+          "item": "0394",
+          "count": "2270"
+        },
+        {
+          "item": "1300 0329",
+          "count": "2200"
+        }
+      ],
+      "smallest": "0100",
+      "count": "932140",
+      "cardinality": "303337"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837304,
+    "name": "Vict Age",
+    "dataTypeName": "text",
+    "description": "Two character numeric",
+    "fieldName": "vict_age",
+    "position": 12,
+    "renderTypeName": "text",
+    "tableColumnId": 94494225,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "99",
+      "null": "0",
+      "top": [
+        {
+          "item": "0",
+          "count": "236067"
+        },
+        {
+          "item": "30",
+          "count": "21047"
+        },
+        {
+          "item": "35",
+          "count": "20645"
+        },
+        {
+          "item": "31",
+          "count": "20151"
+        },
+        {
+          "item": "29",
+          "count": "20068"
+        },
+        {
+          "item": "28",
+          "count": "19804"
+        },
+        {
+          "item": "32",
+          "count": "19623"
+        },
+        {
+          "item": "33",
+          "count": "19142"
+        },
+        {
+          "item": "27",
+          "count": "18949"
+        },
+        {
+          "item": "34",
+          "count": "18254"
+        },
+        {
+          "item": "26",
+          "count": "18228"
+        },
+        {
+          "item": "25",
+          "count": "18020"
+        },
+        {
+          "item": "36",
+          "count": "17203"
+        },
+        {
+          "item": "24",
+          "count": "16874"
+        },
+        {
+          "item": "37",
+          "count": "16418"
+        },
+        {
+          "item": "38",
+          "count": "16111"
+        },
+        {
+          "item": "22",
+          "count": "15785"
+        },
+        {
+          "item": "23",
+          "count": "15665"
+        },
+        {
+          "item": "39",
+          "count": "15237"
+        },
+        {
+          "item": "40",
+          "count": "15046"
+        }
+      ],
+      "smallest": "0",
+      "count": "932140",
+      "cardinality": "104"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837331,
+    "name": "Vict Sex",
+    "dataTypeName": "text",
+    "description": "F - Female M - Male X - Unknown",
+    "fieldName": "vict_sex",
+    "position": 13,
+    "renderTypeName": "text",
+    "tableColumnId": 94494252,
+    "cachedContents": {
+      "non_null": "807934",
+      "largest": "X",
+      "null": "124206",
+      "top": [
+        {
+          "item": "M",
+          "count": "381415"
+        },
+        {
+          "item": "F",
+          "count": "340244"
+        },
+        {
+          "item": "X",
+          "count": "86169"
+        },
+        {
+          "item": "H",
+          "count": "105"
+        },
+        {
+          "item": "-",
+          "count": "1"
+        }
+      ],
+      "smallest": "-",
+      "count": "932140",
+      "cardinality": "5"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837330,
+    "name": "Vict Descent",
+    "dataTypeName": "text",
+    "description": "Descent Code: A - Other Asian B - Black C - Chinese D - Cambodian F - Filipino G - Guamanian H - Hispanic/Latin/Mexican I - American Indian/Alaskan Native J - Japanese K - Korean L - Laotian O - Other P - Pacific Islander S - Samoan U - Hawaiian V - Vietnamese W - White X - Unknown Z - Asian Indian",
+    "fieldName": "vict_descent",
+    "position": 14,
+    "renderTypeName": "text",
+    "tableColumnId": 94494251,
+    "cachedContents": {
+      "non_null": "807924",
+      "largest": "Z",
+      "null": "124216",
+      "top": [
+        {
+          "item": "H",
+          "count": "283151"
+        },
+        {
+          "item": "W",
+          "count": "188360"
+        },
+        {
+          "item": "B",
+          "count": "130445"
+        },
+        {
+          "item": "X",
+          "count": "94700"
+        },
+        {
+          "item": "O",
+          "count": "73525"
+        },
+        {
+          "item": "A",
+          "count": "20420"
+        },
+        {
+          "item": "K",
+          "count": "5143"
+        },
+        {
+          "item": "F",
+          "count": "4051"
+        },
+        {
+          "item": "C",
+          "count": "3751"
+        },
+        {
+          "item": "J",
+          "count": "1314"
+        },
+        {
+          "item": "V",
+          "count": "997"
+        },
+        {
+          "item": "I",
+          "count": "896"
+        },
+        {
+          "item": "Z",
+          "count": "466"
+        },
+        {
+          "item": "P",
+          "count": "251"
+        },
+        {
+          "item": "U",
+          "count": "192"
+        },
+        {
+          "item": "D",
+          "count": "77"
+        },
+        {
+          "item": "G",
+          "count": "67"
+        },
+        {
+          "item": "L",
+          "count": "65"
+        },
+        {
+          "item": "S",
+          "count": "51"
+        },
+        {
+          "item": "-",
+          "count": "2"
+        }
+      ],
+      "smallest": "-",
+      "count": "932140",
+      "cardinality": "20"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837329,
+    "name": "Premis Cd",
+    "dataTypeName": "number",
+    "description": "The type of structure, vehicle, or location where the crime took place.",
+    "fieldName": "premis_cd",
+    "position": 15,
+    "renderTypeName": "number",
+    "tableColumnId": 94494250,
+    "cachedContents": {
+      "non_null": "932130",
+      "largest": "976",
+      "null": "10",
+      "top": [
+        {
+          "item": "101",
+          "count": "236636"
+        },
+        {
+          "item": "501",
+          "count": "157053"
+        },
+        {
+          "item": "502",
+          "count": "113616"
+        },
+        {
+          "item": "108",
+          "count": "64328"
+        },
+        {
+          "item": "203",
+          "count": "44434"
+        },
+        {
+          "item": "102",
+          "count": "39558"
+        },
+        {
+          "item": "122",
+          "count": "27236"
+        },
+        {
+          "item": "707",
+          "count": "17901"
+        },
+        {
+          "item": "104",
+          "count": "14873"
+        },
+        {
+          "item": "404",
+          "count": "12193"
+        },
+        {
+          "item": "210",
+          "count": "11824"
+        },
+        {
+          "item": "123",
+          "count": "7770"
+        },
+        {
+          "item": "710",
+          "count": "7414"
+        },
+        {
+          "item": "402",
+          "count": "7205"
+        },
+        {
+          "item": "103",
+          "count": "6639"
+        },
+        {
+          "item": "504",
+          "count": "6511"
+        },
+        {
+          "item": "109",
+          "count": "6175"
+        },
+        {
+          "item": "121",
+          "count": "5711"
+        },
+        {
+          "item": "301",
+          "count": "5299"
+        },
+        {
+          "item": "503",
+          "count": "5259"
+        }
+      ],
+      "smallest": "101",
+      "count": "932140",
+      "cardinality": "314"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837328,
+    "name": "Premis Desc",
+    "dataTypeName": "text",
+    "description": "Defines the Premise Code provided.",
+    "fieldName": "premis_desc",
+    "position": 16,
+    "renderTypeName": "text",
+    "tableColumnId": 94494249,
+    "cachedContents": {
+      "non_null": "931578",
+      "largest": "YARD (RESIDENTIAL/BUSINESS)",
+      "null": "562",
+      "top": [
+        {
+          "item": "STREET",
+          "count": "236636"
+        },
+        {
+          "item": "SINGLE FAMILY DWELLING",
+          "count": "157053"
+        },
+        {
+          "item": "MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)",
+          "count": "113616"
+        },
+        {
+          "item": "PARKING LOT",
+          "count": "64328"
+        },
+        {
+          "item": "OTHER BUSINESS",
+          "count": "44434"
+        },
+        {
+          "item": "SIDEWALK",
+          "count": "39558"
+        },
+        {
+          "item": "VEHICLE, PASSENGER/TRUCK",
+          "count": "27236"
+        },
+        {
+          "item": "GARAGE/CARPORT",
+          "count": "17901"
+        },
+        {
+          "item": "DRIVEWAY",
+          "count": "14873"
+        },
+        {
+          "item": "DEPARTMENT STORE",
+          "count": "12193"
+        },
+        {
+          "item": "RESTAURANT/FAST FOOD",
+          "count": "11824"
+        },
+        {
+          "item": "PARKING UNDERGROUND/BUILDING",
+          "count": "7770"
+        },
+        {
+          "item": "OTHER PREMISE",
+          "count": "7414"
+        },
+        {
+          "item": "MARKET",
+          "count": "7205"
+        },
+        {
+          "item": "ALLEY",
+          "count": "6639"
+        },
+        {
+          "item": "OTHER RESIDENCE",
+          "count": "6511"
+        },
+        {
+          "item": "PARK/PLAYGROUND",
+          "count": "6175"
+        },
+        {
+          "item": "YARD (RESIDENTIAL/BUSINESS)",
+          "count": "5711"
+        },
+        {
+          "item": "GAS STATION",
+          "count": "5299"
+        },
+        {
+          "item": "HOTEL",
+          "count": "5259"
+        }
+      ],
+      "smallest": "7TH AND METRO CENTER (NOT LINE SPECIFIC)",
+      "count": "932140",
+      "cardinality": "306"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837303,
+    "name": "Weapon Used Cd",
+    "dataTypeName": "text",
+    "description": "The type of weapon used in the crime. ",
+    "fieldName": "weapon_used_cd",
+    "position": 17,
+    "renderTypeName": "text",
+    "tableColumnId": 94494224,
+    "cachedContents": {
+      "non_null": "321339",
+      "largest": "516",
+      "null": "610801",
+      "top": [
+        {
+          "item": "400",
+          "count": "172138"
+        },
+        {
+          "item": "500",
+          "count": "34916"
+        },
+        {
+          "item": "511",
+          "count": "23498"
+        },
+        {
+          "item": "102",
+          "count": "19809"
+        },
+        {
+          "item": "109",
+          "count": "7135"
+        },
+        {
+          "item": "200",
+          "count": "6740"
+        },
+        {
+          "item": "106",
+          "count": "6493"
+        },
+        {
+          "item": "207",
+          "count": "5799"
+        },
+        {
+          "item": "512",
+          "count": "3694"
+        },
+        {
+          "item": "307",
+          "count": "3185"
+        },
+        {
+          "item": "306",
+          "count": "2711"
+        },
+        {
+          "item": "312",
+          "count": "2436"
+        },
+        {
+          "item": "212",
+          "count": "2385"
+        },
+        {
+          "item": "204",
+          "count": "2237"
+        },
+        {
+          "item": "308",
+          "count": "2224"
+        },
+        {
+          "item": "304",
+          "count": "2062"
+        },
+        {
+          "item": "205",
+          "count": "1900"
+        },
+        {
+          "item": "114",
+          "count": "1823"
+        },
+        {
+          "item": "201",
+          "count": "1678"
+        },
+        {
+          "item": "302",
+          "count": "1373"
+        }
+      ],
+      "smallest": "101",
+      "count": "932140",
+      "cardinality": "79"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837327,
+    "name": "Weapon Desc",
+    "dataTypeName": "text",
+    "description": "Defines the Weapon Used Code provided.",
+    "fieldName": "weapon_desc",
+    "position": 18,
+    "renderTypeName": "text",
+    "tableColumnId": 94494248,
+    "cachedContents": {
+      "non_null": "321339",
+      "largest": "VERBAL THREAT",
+      "null": "610801",
+      "top": [
+        {
+          "item": "STRONG-ARM (HANDS, FIST, FEET OR BODILY FORCE)",
+          "count": "172138"
+        },
+        {
+          "item": "UNKNOWN WEAPON/OTHER WEAPON",
+          "count": "34916"
+        },
+        {
+          "item": "VERBAL THREAT",
+          "count": "23498"
+        },
+        {
+          "item": "HAND GUN",
+          "count": "19809"
+        },
+        {
+          "item": "SEMI-AUTOMATIC PISTOL",
+          "count": "7135"
+        },
+        {
+          "item": "KNIFE WITH BLADE 6INCHES OR LESS",
+          "count": "6740"
+        },
+        {
+          "item": "UNKNOWN FIREARM",
+          "count": "6493"
+        },
+        {
+          "item": "OTHER KNIFE",
+          "count": "5799"
+        },
+        {
+          "item": "MACE/PEPPER SPRAY",
+          "count": "3694"
+        },
+        {
+          "item": "VEHICLE",
+          "count": "3185"
+        },
+        {
+          "item": "ROCK/THROWN OBJECT",
+          "count": "2711"
+        },
+        {
+          "item": "PIPE/METAL PIPE",
+          "count": "2436"
+        },
+        {
+          "item": "BOTTLE",
+          "count": "2385"
+        },
+        {
+          "item": "FOLDING KNIFE",
+          "count": "2237"
+        },
+        {
+          "item": "STICK",
+          "count": "2224"
+        },
+        {
+          "item": "CLUB/BAT",
+          "count": "2062"
+        },
+        {
+          "item": "KITCHEN KNIFE",
+          "count": "1900"
+        },
+        {
+          "item": "AIR PISTOL/REVOLVER/RIFLE/BB GUN",
+          "count": "1823"
+        },
+        {
+          "item": "KNIFE WITH BLADE OVER 6 INCHES IN LENGTH",
+          "count": "1678"
+        },
+        {
+          "item": "BLUNT INSTRUMENT",
+          "count": "1373"
+        }
+      ],
+      "smallest": "AIR PISTOL/REVOLVER/RIFLE/BB GUN",
+      "count": "932140",
+      "cardinality": "79"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837326,
+    "name": "Status",
+    "dataTypeName": "text",
+    "description": "Status of the case. (IC is the default)",
+    "fieldName": "status",
+    "position": 19,
+    "renderTypeName": "text",
+    "tableColumnId": 94494247,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "JO",
+      "null": "0",
+      "top": [
+        {
+          "item": "IC",
+          "count": "745184"
+        },
+        {
+          "item": "AO",
+          "count": "101110"
+        },
+        {
+          "item": "AA",
+          "count": "81078"
+        },
+        {
+          "item": "JA",
+          "count": "3057"
+        },
+        {
+          "item": "JO",
+          "count": "1706"
+        },
+        {
+          "item": "CC",
+          "count": "5"
+        }
+      ],
+      "smallest": "AA",
+      "count": "932140",
+      "cardinality": "6"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837325,
+    "name": "Status Desc",
+    "dataTypeName": "text",
+    "description": "Defines the Status Code provided.",
+    "fieldName": "status_desc",
+    "position": 20,
+    "renderTypeName": "text",
+    "tableColumnId": 94494246,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "UNK",
+      "null": "0",
+      "top": [
+        {
+          "item": "Invest Cont",
+          "count": "745184"
+        },
+        {
+          "item": "Adult Other",
+          "count": "101110"
+        },
+        {
+          "item": "Adult Arrest",
+          "count": "81078"
+        },
+        {
+          "item": "Juv Arrest",
+          "count": "3057"
+        },
+        {
+          "item": "Juv Other",
+          "count": "1706"
+        },
+        {
+          "item": "UNK",
+          "count": "5"
+        }
+      ],
+      "smallest": "Adult Arrest",
+      "count": "932140",
+      "cardinality": "6"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837302,
+    "name": "Crm Cd 1",
+    "dataTypeName": "text",
+    "description": "Indicates the crime committed. Crime Code 1 is the primary and most serious one. Crime Code 2, 3, and 4 are respectively less serious offenses. Lower crime class numbers are more serious.",
+    "fieldName": "crm_cd_1",
+    "position": 21,
+    "renderTypeName": "text",
+    "tableColumnId": 94494223,
+    "cachedContents": {
+      "non_null": "932129",
+      "largest": "956",
+      "null": "11",
+      "top": [
+        {
+          "item": "510",
+          "count": "100207"
+        },
+        {
+          "item": "624",
+          "count": "74090"
+        },
+        {
+          "item": "330",
+          "count": "57589"
+        },
+        {
+          "item": "354",
+          "count": "57553"
+        },
+        {
+          "item": "310",
+          "count": "57017"
+        },
+        {
+          "item": "740",
+          "count": "56626"
+        },
+        {
+          "item": "230",
+          "count": "52684"
+        },
+        {
+          "item": "440",
+          "count": "47568"
+        },
+        {
+          "item": "626",
+          "count": "46467"
+        },
+        {
+          "item": "420",
+          "count": "36026"
+        },
+        {
+          "item": "331",
+          "count": "33344"
+        },
+        {
+          "item": "210",
+          "count": "31690"
+        },
+        {
+          "item": "341",
+          "count": "31214"
+        },
+        {
+          "item": "442",
+          "count": "24714"
+        },
+        {
+          "item": "745",
+          "count": "24105"
+        },
+        {
+          "item": "930",
+          "count": "18904"
+        },
+        {
+          "item": "888",
+          "count": "14510"
+        },
+        {
+          "item": "761",
+          "count": "13763"
+        },
+        {
+          "item": "236",
+          "count": "12542"
+        },
+        {
+          "item": "901",
+          "count": "11636"
+        }
+      ],
+      "smallest": "110",
+      "count": "932140",
+      "cardinality": "141"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837301,
+    "name": "Crm Cd 2",
+    "dataTypeName": "text",
+    "description": "May contain a code for an additional crime, less serious than Crime Code 1. ",
+    "fieldName": "crm_cd_2",
+    "position": 22,
+    "renderTypeName": "text",
+    "tableColumnId": 94494222,
+    "cachedContents": {
+      "non_null": "67590",
+      "largest": "999",
+      "null": "864550",
+      "top": [
+        {
+          "item": "998",
+          "count": "54034"
+        },
+        {
+          "item": "930",
+          "count": "3828"
+        },
+        {
+          "item": "860",
+          "count": "1307"
+        },
+        {
+          "item": "761",
+          "count": "965"
+        },
+        {
+          "item": "946",
+          "count": "887"
+        },
+        {
+          "item": "626",
+          "count": "830"
+        },
+        {
+          "item": "812",
+          "count": "642"
+        },
+        {
+          "item": "740",
+          "count": "595"
+        },
+        {
+          "item": "910",
+          "count": "463"
+        },
+        {
+          "item": "480",
+          "count": "408"
+        },
+        {
+          "item": "624",
+          "count": "402"
+        },
+        {
+          "item": "745",
+          "count": "283"
+        },
+        {
+          "item": "815",
+          "count": "252"
+        },
+        {
+          "item": "820",
+          "count": "178"
+        },
+        {
+          "item": "510",
+          "count": "169"
+        },
+        {
+          "item": "999",
+          "count": "150"
+        },
+        {
+          "item": "888",
+          "count": "132"
+        },
+        {
+          "item": "901",
+          "count": "123"
+        },
+        {
+          "item": "230",
+          "count": "117"
+        },
+        {
+          "item": "236",
+          "count": "102"
+        }
+      ],
+      "smallest": "210",
+      "count": "932140",
+      "cardinality": "126"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837324,
+    "name": "Crm Cd 3",
+    "dataTypeName": "text",
+    "description": "May contain a code for an additional crime, less serious than Crime Code 1.",
+    "fieldName": "crm_cd_3",
+    "position": 23,
+    "renderTypeName": "text",
+    "tableColumnId": 94494245,
+    "cachedContents": {
+      "non_null": "2265",
+      "largest": "999",
+      "null": "929875",
+      "top": [
+        {
+          "item": "998",
+          "count": "1999"
+        },
+        {
+          "item": "930",
+          "count": "83"
+        },
+        {
+          "item": "946",
+          "count": "31"
+        },
+        {
+          "item": "910",
+          "count": "27"
+        },
+        {
+          "item": "761",
+          "count": "23"
+        },
+        {
+          "item": "999",
+          "count": "15"
+        },
+        {
+          "item": "740",
+          "count": "13"
+        },
+        {
+          "item": "860",
+          "count": "7"
+        },
+        {
+          "item": "626",
+          "count": "6"
+        },
+        {
+          "item": "901",
+          "count": "6"
+        },
+        {
+          "item": "821",
+          "count": "5"
+        },
+        {
+          "item": "956",
+          "count": "5"
+        },
+        {
+          "item": "745",
+          "count": "5"
+        },
+        {
+          "item": "653",
+          "count": "5"
+        },
+        {
+          "item": "815",
+          "count": "3"
+        },
+        {
+          "item": "820",
+          "count": "3"
+        },
+        {
+          "item": "888",
+          "count": "3"
+        },
+        {
+          "item": "993",
+          "count": "3"
+        },
+        {
+          "item": "997",
+          "count": "3"
+        },
+        {
+          "item": "900",
+          "count": "2"
+        }
+      ],
+      "smallest": "310",
+      "count": "932140",
+      "cardinality": "37"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837323,
+    "name": "Crm Cd 4",
+    "dataTypeName": "text",
+    "description": "May contain a code for an additional crime, less serious than Crime Code 1.",
+    "fieldName": "crm_cd_4",
+    "position": 24,
+    "renderTypeName": "text",
+    "tableColumnId": 94494244,
+    "cachedContents": {
+      "non_null": "64",
+      "largest": "999",
+      "null": "932076",
+      "top": [
+        {
+          "item": "998",
+          "count": "56"
+        },
+        {
+          "item": "999",
+          "count": "3"
+        },
+        {
+          "item": "946",
+          "count": "2"
+        },
+        {
+          "item": "821",
+          "count": "1"
+        },
+        {
+          "item": "910",
+          "count": "1"
+        },
+        {
+          "item": "930",
+          "count": "1"
+        }
+      ],
+      "smallest": "821",
+      "count": "932140",
+      "cardinality": "6"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837322,
+    "name": "LOCATION",
+    "dataTypeName": "text",
+    "description": "Street address of crime incident rounded to the nearest hundred block to maintain anonymity.",
+    "fieldName": "location",
+    "position": 25,
+    "renderTypeName": "text",
+    "tableColumnId": 94494243,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "ZOO                          DR",
+      "null": "0",
+      "top": [
+        {
+          "item": "800 N  ALAMEDA                      ST",
+          "count": "1783"
+        },
+        {
+          "item": "6TH                          ST",
+          "count": "1549"
+        },
+        {
+          "item": "10200    SANTA MONICA                 BL",
+          "count": "1501"
+        },
+        {
+          "item": "7TH                          ST",
+          "count": "1454"
+        },
+        {
+          "item": "100    THE GROVE                    DR",
+          "count": "1419"
+        },
+        {
+          "item": "7TH",
+          "count": "1418"
+        },
+        {
+          "item": "6TH",
+          "count": "1339"
+        },
+        {
+          "item": "700 S  FIGUEROA                     ST",
+          "count": "1331"
+        },
+        {
+          "item": "9300    TAMPA                        AV",
+          "count": "1193"
+        },
+        {
+          "item": "HOLLYWOOD",
+          "count": "1180"
+        },
+        {
+          "item": "FIGUEROA                     ST",
+          "count": "1180"
+        },
+        {
+          "item": "11800    SANTA MONICA                 BL",
+          "count": "1179"
+        },
+        {
+          "item": "VERMONT                      AV",
+          "count": "1158"
+        },
+        {
+          "item": "BROADWAY",
+          "count": "1144"
+        },
+        {
+          "item": "5TH",
+          "count": "1135"
+        },
+        {
+          "item": "6600    TOPANGA CANYON               BL",
+          "count": "1083"
+        },
+        {
+          "item": "WESTERN                      AV",
+          "count": "1049"
+        },
+        {
+          "item": "8TH                          ST",
+          "count": "1013"
+        },
+        {
+          "item": "5300    LANKERSHIM                   BL",
+          "count": "989"
+        },
+        {
+          "item": "600 S  ALVARADO                     ST",
+          "count": "987"
+        }
+      ],
+      "smallest": "00000    CLUB HOUSE                   CT",
+      "count": "932140",
+      "cardinality": "65510"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837321,
+    "name": "Cross Street",
+    "dataTypeName": "text",
+    "description": "Cross Street of rounded Address",
+    "fieldName": "cross_street",
+    "position": 26,
+    "renderTypeName": "text",
+    "tableColumnId": 94494242,
+    "cachedContents": {
+      "non_null": "146002",
+      "largest": "ZUNIGA                       LN",
+      "null": "786138",
+      "top": [
+        {
+          "item": "BROADWAY",
+          "count": "2390"
+        },
+        {
+          "item": "FIGUEROA                     ST",
+          "count": "1853"
+        },
+        {
+          "item": "VERMONT                      AV",
+          "count": "1563"
+        },
+        {
+          "item": "FIGUEROA",
+          "count": "1558"
+        },
+        {
+          "item": "WESTERN                      AV",
+          "count": "1435"
+        },
+        {
+          "item": "MAIN                         ST",
+          "count": "1387"
+        },
+        {
+          "item": "SAN PEDRO",
+          "count": "1379"
+        },
+        {
+          "item": "VERMONT",
+          "count": "1068"
+        },
+        {
+          "item": "CENTRAL                      AV",
+          "count": "1009"
+        },
+        {
+          "item": "WESTERN",
+          "count": "918"
+        },
+        {
+          "item": "AVALON                       BL",
+          "count": "918"
+        },
+        {
+          "item": "SAN PEDRO                    ST",
+          "count": "819"
+        },
+        {
+          "item": "MAIN",
+          "count": "742"
+        },
+        {
+          "item": "HOOVER                       ST",
+          "count": "709"
+        },
+        {
+          "item": "WILSHIRE",
+          "count": "688"
+        },
+        {
+          "item": "OLYMPIC",
+          "count": "680"
+        },
+        {
+          "item": "LOS ANGELES",
+          "count": "668"
+        },
+        {
+          "item": "SUNSET",
+          "count": "665"
+        },
+        {
+          "item": "HOLLYWOOD",
+          "count": "648"
+        },
+        {
+          "item": "CENTRAL",
+          "count": "605"
+        }
+      ],
+      "smallest": "100TH                        ST",
+      "count": "932140",
+      "cardinality": "10127"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837319,
+    "name": "LAT",
+    "dataTypeName": "number",
+    "description": "Latitude",
+    "fieldName": "lat",
+    "position": 27,
+    "renderTypeName": "number",
+    "tableColumnId": 94494240,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "34.3343",
+      "null": "0",
+      "top": [
+        {
+          "item": "34.1016",
+          "count": "5267"
+        },
+        {
+          "item": "34.2012",
+          "count": "4213"
+        },
+        {
+          "item": "34.098",
+          "count": "4039"
+        },
+        {
+          "item": "34.1939",
+          "count": "3317"
+        },
+        {
+          "item": "34.1867",
+          "count": "2990"
+        },
+        {
+          "item": "34.1649",
+          "count": "2762"
+        },
+        {
+          "item": "34.0473",
+          "count": "2623"
+        },
+        {
+          "item": "33.9455",
+          "count": "2545"
+        },
+        {
+          "item": "34.1903",
+          "count": "2479"
+        },
+        {
+          "item": "34.1938",
+          "count": "2467"
+        },
+        {
+          "item": "34.0998",
+          "count": "2402"
+        },
+        {
+          "item": "34.0636",
+          "count": "2268"
+        },
+        {
+          "item": "0",
+          "count": "2264"
+        },
+        {
+          "item": "34.2011",
+          "count": "2244"
+        },
+        {
+          "item": "34.1576",
+          "count": "2241"
+        },
+        {
+          "item": "34.0981",
+          "count": "2233"
+        },
+        {
+          "item": "34.0561",
+          "count": "2215"
+        },
+        {
+          "item": "34.0736",
+          "count": "2114"
+        },
+        {
+          "item": "34.0761",
+          "count": "2109"
+        },
+        {
+          "item": "34.2048",
+          "count": "2082"
+        }
+      ],
+      "smallest": "0",
+      "count": "932140",
+      "cardinality": "5421"
+    },
+    "format": {}
+  },
+  {
+    "id": 450837313,
+    "name": "LON",
+    "dataTypeName": "number",
+    "description": "Longtitude",
+    "fieldName": "lon",
+    "position": 28,
+    "renderTypeName": "number",
+    "tableColumnId": 94494234,
+    "cachedContents": {
+      "non_null": "932140",
+      "largest": "0",
+      "null": "0",
+      "top": [
+        {
+          "item": "-118.2739",
+          "count": "7131"
+        },
+        {
+          "item": "-118.2827",
+          "count": "6119"
+        },
+        {
+          "item": "-118.2915",
+          "count": "4008"
+        },
+        {
+          "item": "-118.2652",
+          "count": "3978"
+        },
+        {
+          "item": "-118.2871",
+          "count": "3718"
+        },
+        {
+          "item": "-118.3089",
+          "count": "3650"
+        },
+        {
+          "item": "-118.2783",
+          "count": "3590"
+        },
+        {
+          "item": "-118.2916",
+          "count": "3556"
+        },
+        {
+          "item": "-118.309",
+          "count": "3429"
+        },
+        {
+          "item": "-118.2695",
+          "count": "2496"
+        },
+        {
+          "item": "-118.4662",
+          "count": "2495"
+        },
+        {
+          "item": "-118.3002",
+          "count": "2433"
+        },
+        {
+          "item": "-118.287",
+          "count": "2355"
+        },
+        {
+          "item": "-118.4487",
+          "count": "2323"
+        },
+        {
+          "item": "0",
+          "count": "2264"
+        },
+        {
+          "item": "-118.3965",
+          "count": "2240"
+        },
+        {
+          "item": "-118.5361",
+          "count": "2164"
+        },
+        {
+          "item": "-118.6059",
+          "count": "2124"
+        },
+        {
+          "item": "-118.2917",
+          "count": "2038"
+        },
+        {
+          "item": "-118.3092",
+          "count": "2038"
+        }
+      ],
+      "smallest": "-118.6676",
+      "count": "932140",
+      "cardinality": "4978"
+    },
+    "format": {}
+  }
+]
